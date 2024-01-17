@@ -1,0 +1,8 @@
+class: "TicTacToeTest"
+max_points: "6"
+max_timeout: "30"
+
+player1: "TicTacToeAgent"
+player2: "randomAgent"
+
+iteration: "30"

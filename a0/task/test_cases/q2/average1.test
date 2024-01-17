@@ -1,0 +1,7 @@
+class: "EvalTest"
+success: "average(priceList) correctly computes the average cost in priceList"
+failure: "average(priceList) must compute the average cost of UNIQUE prices in priceList"
+
+# A python expression to be evaluated.  This expression must return the 
+# same result for the student and instructor's code.
+test: "average.average([1,1,1,1,1])"

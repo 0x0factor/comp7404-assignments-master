@@ -1,0 +1,3 @@
+class: "PassAllTestsQuestion"
+max_points: "1"
+depends: "q8_2"

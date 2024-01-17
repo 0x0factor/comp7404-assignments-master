@@ -1,0 +1,429 @@
+weights_k_0: """
+{((0, 0), 'exit'): 0,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): 0}
+"""
+
+q_values_k_0_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_0_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_0_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_0_action_south: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_0_action_exit: """
+            0.0000
+           illegal
+            0.0000
+"""
+
+weights_k_1: """
+{((0, 0), 'exit'): 1.0,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): 0}
+"""
+
+q_values_k_1_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_1_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_1_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_1_action_south: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_1_action_exit: """
+            0.0000
+           illegal
+            1.0000
+"""
+
+weights_k_2: """
+{((0, 0), 'exit'): 1.0,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): -1.0}
+"""
+
+q_values_k_2_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_2_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_2_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_2_action_south: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_2_action_exit: """
+           -1.0000
+           illegal
+            1.0000
+"""
+
+weights_k_3: """
+{((0, 0), 'exit'): 1.9,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): -1.0}
+"""
+
+q_values_k_3_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_3_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_3_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_3_action_south: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_3_action_exit: """
+           -1.0000
+           illegal
+            1.9000
+"""
+
+weights_k_4: """
+{((0, 0), 'exit'): 1.9,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0.1425,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): -1.0}
+"""
+
+q_values_k_4_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_4_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_4_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_4_action_south: """
+           illegal
+            0.1425
+           illegal
+"""
+
+q_values_k_4_action_exit: """
+           -1.0000
+           illegal
+            1.9000
+"""
+
+weights_k_5: """
+{((0, 0), 'exit'): 2.71,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0.1425,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): -1.0}
+"""
+
+q_values_k_5_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_5_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_5_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_5_action_south: """
+           illegal
+            0.1425
+           illegal
+"""
+
+q_values_k_5_action_exit: """
+           -1.0000
+           illegal
+            2.7100
+"""
+
+weights_k_6: """
+{((0, 0), 'exit'): 2.71,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0.1425,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): -1.9}
+"""
+
+q_values_k_6_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_6_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_6_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_6_action_south: """
+           illegal
+            0.1425
+           illegal
+"""
+
+q_values_k_6_action_exit: """
+           -1.9000
+           illegal
+            2.7100
+"""
+
+weights_k_7: """
+{((0, 0), 'exit'): 3.439,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0.1425,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): -1.9}
+"""
+
+q_values_k_7_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_7_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_7_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_7_action_south: """
+           illegal
+            0.1425
+           illegal
+"""
+
+q_values_k_7_action_exit: """
+           -1.9000
+           illegal
+            3.4390
+"""
+
+weights_k_8: """
+{((0, 0), 'exit'): 3.439,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0.1425,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): -2.71}
+"""
+
+q_values_k_8_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_8_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_8_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_8_action_south: """
+           illegal
+            0.1425
+           illegal
+"""
+
+q_values_k_8_action_exit: """
+           -2.7100
+           illegal
+            3.4390
+"""
+
+weights_k_9: """
+{((0, 0), 'exit'): 3.439,
+ ((0, 1), 'east'): 0,
+ ((0, 1), 'north'): 0,
+ ((0, 1), 'south'): 0.1425,
+ ((0, 1), 'west'): 0,
+ ((0, 2), 'exit'): -3.439}
+"""
+
+q_values_k_9_action_west: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_9_action_north: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_9_action_east: """
+           illegal
+            0.0000
+           illegal
+"""
+
+q_values_k_9_action_south: """
+           illegal
+            0.1425
+           illegal
+"""
+
+q_values_k_9_action_exit: """
+           -3.4390
+           illegal
+            3.4390
+"""
+
+weights_k_100: """
+{((0, 0), 'exit'): 9.65663161797075,
+ ((0, 1), 'east'): 0.9643845580106357,
+ ((0, 1), 'north'): -2.938752006210717,
+ ((0, 1), 'south'): 3.8488186790691765,
+ ((0, 1), 'west'): 0.3067861885121283,
+ ((0, 2), 'exit'): -9.749684449500677}
+"""
+
+q_values_k_100_action_west: """
+           illegal
+            0.3068
+           illegal
+"""
+
+q_values_k_100_action_north: """
+           illegal
+           -2.9388
+           illegal
+"""
+
+q_values_k_100_action_east: """
+           illegal
+            0.9644
+           illegal
+"""
+
+q_values_k_100_action_south: """
+           illegal
+            3.8488
+           illegal
+"""
+
+q_values_k_100_action_exit: """
+           -9.7497
+           illegal
+            9.6566
+"""
+
